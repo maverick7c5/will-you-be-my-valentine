@@ -46,17 +46,17 @@ const gifsByIndex = {
 
 // Optional per-index width overrides (preserve aspect ratio). Keys are messageIndex values.
 const gifsSizeByIndex = {
-    0: '750px', // 3rd "No"
-    1: '750px', // 4th "No"
-    2: '750px', // 5th "No"
-    3: '750px',  // 6th "No"
-    4: '750px', // 7th "No"
-    5: '750px', // 8th "No"
-    6: '750px', // 9th "No"
-    7: '750px', // 10th "No"
-    8: '750px', // 11th "No"
-    9: '750px', // 12th "No"
-    10: '750px' // 13th "No"
+    0: '650px', // 3rd "No"
+    1: '650px', // 4th "No"
+    2: '650px', // 5th "No"
+    3: '650px',  // 6th "No"
+    4: '650px', // 7th "No"
+    5: '650px', // 8th "No"
+    6: '650px', // 9th "No"
+    7: '650px', // 10th "No"
+    8: '650px', // 11th "No"
+    9: '650px', // 12th "No"
+    10: '650px' // 13th "No"
 };
 const originalGifInlineWidth = gifImg ? gifImg.style.width : '';
 
